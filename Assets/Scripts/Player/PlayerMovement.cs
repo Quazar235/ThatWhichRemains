@@ -5,8 +5,8 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb;
 
     [SerializeField] float speed;
-    private float vertical;
-    private float horizontal;
+    float vertical;
+    float horizontal;
 
     void Start()
     {
