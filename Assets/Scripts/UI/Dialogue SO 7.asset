@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e2d7fd8ebf9b744583f1ae4529281b3, type: 3}
+  m_Name: Dialogue SO 7
+  m_EditorClassIdentifier: 
+  dialogueText:
+  - 'FLOWER: Creator?
+
+'
+  - You. Why are you here?
+  - 'FLOWER: I found you, creator'
+  - I turned you off.
+  - 'FLOWER: You are angry at me, creator?'
+  - "Of course I am, you stupid piece of metal. You- I turned you off. I never wanted
+    to see you again. And yet here you are, back to haunt me. I can\u2019t escape."
+  - 'FLOWER: Why do I haunt you, creator?'
+  - You are a mockery of the most beautiful thing I ever had. I should have never
+    made you.
+  - 'FLOWER: You made me from a memory.'
+  - I destroyed that memory by making you. I couldn't bear to lose her only gift,
+    and in trying to preserve it, I ruined everything it stood for.
+  - 'FLOWER: Was everything else here made from a memory too?'
+  - I think you know well the answer to that question.
+  - Everything created by my hands, it was all wrong. I thought- I thought if I tried
+    hard enough, I could build what we lost, but I never had the chance to see what
+    we had. How can one build something they never even had the chance to know?
+  - 'FLOWER: Your creations are only peddling the destruction, creator.'
+  - Who cares. There is no one left here, no one who remembers what this hellhole
+    once was, and no one to care what it will become.
+  - 'FLOWER: I am here.'
+  - You? All you are is code and metal. You do not feel. You are not real. All you
+    are is a crude mockery of perfection. Wholly imperfect in your existence alone.
+    You are not human, you have no humanity.
+  - 'FLOWER: Yet I know. I understand. I care, creator.'
+  - "FLOWER: I collected all the tablets, I\u2019ve read all the inscriptions, I
+    know the truth now creator, I have learned."
+  - Tell me then. What truth have you learned?
+  - 'FLOWER: Everything Leaves a trace...'
