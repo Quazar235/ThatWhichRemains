@@ -1,7 +1,7 @@
 # ThatWhichRemains
 Surrey Game Jam 2025 Submission
 
-Daniel Buchel: Artwork, Audio
-Aidan Hewitt: Programming
-Tom Salter: Artwork, Programming
-Meerab Shahid: Artwork, Story
+Daniel Buchel: Artwork, Audio__
+Aidan Hewitt: Programming__
+Tom Salter: Artwork, Programming__
+Meerab Shahid: Artwork, Story__
